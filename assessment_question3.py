@@ -1,11 +1,12 @@
+"""
 Question 3
-# Group Name: DAN/EXT 55
+Group Name: DAN/EXT 55
 Group Members:
 1. Thuy Chuong Duong - s385201
 2. Kar Keat Koh - s394886
 3. Joshua Joseph Bargamento - s394292
 4. Sihao Cui - s399370
-
+"""
 Program on the number of students in a class and their grades
 """
 
