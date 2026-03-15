@@ -1,3 +1,12 @@
+"""
+Question 1
+Group Name: DAN/EXT 55
+Group Members:
+Thuy Chuong Duong - S385201
+Kar Keat Koh - S394886
+Joshua Joseph Bargamento - S394292
+Sihao Cui - S399370
+"""
 def check_password_strength():
     password = input("Enter your password: ")
     length = len(password)
